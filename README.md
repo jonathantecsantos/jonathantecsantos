@@ -1,4 +1,4 @@
-- 👋 Hi, Me chamo Jonathan Santos!
+- 👋 Olá! Me chamo Jonathan Santos!
 - 👀 Tenho interesse em Ciências e Computação.
 - 🌱 Venho estudando as principais tecnologias de Desenvolvimento de Software.
 - 📫 Você pode me encontrar no Linkedin: https://www.linkedin.com/in/jonathan-santos-7000a11a3
